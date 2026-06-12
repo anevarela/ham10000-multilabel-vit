@@ -3,3 +3,4 @@ Classification distinguishes between the 7 different skin lesions with an averag
 Confusion matrix and AUC-ROC curves are included as an analysis.
 
 Demo at https://huggingface.co/spaces/anevarela/ham10000-skin-classifier
+Final test performance can be seen on performance_report.txt. Whole train report can be found on https://api.wandb.ai/links/avarelaetxeberria-upv-ehu/83o65by0
